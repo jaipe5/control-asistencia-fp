@@ -1,4 +1,4 @@
-# Control de asistencia FP — demostración
+# Control de asistencia FP 
 
 MicroApp HTML/CSS/JavaScript sin dependencias ni servidor. Permite pasar lista sobre identificadores ficticios, contabilizar presentes/faltas/retrasos/justificadas, imprimir y descargar un CSV separado por punto y coma (compatible con LibreOffice Calc).
 
